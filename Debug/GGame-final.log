@@ -1,0 +1,4 @@
+﻿  main.cpp
+f:\documents\visual studio\projects\ggame-final\ggame-final\main.cpp(57): warning C4244: 'argument': conversion from 'float' to 'const int', possible loss of data
+  GGame-final.vcxproj -> F:\Documents\Visual Studio\Projects\GGame-final\Debug\GGame-final.exe
+  GGame-final.vcxproj -> F:\Documents\Visual Studio\Projects\GGame-final\Debug\GGame-final.pdb (Full PDB)
